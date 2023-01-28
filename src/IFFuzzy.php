@@ -2,7 +2,7 @@
 
 namespace ifaqih\iffuzzy;
 
-require_once "Void.php";
+require_once "Component/Void.php";
 
 use ifaqih\Component\Main;
 use ifaqih\Component\SRC\Builder;
