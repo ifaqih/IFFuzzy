@@ -1,6 +1,6 @@
 <?php
 
-namespace ifaqih\IFFuzzy;
+namespace ifaqih\iffuzzy;
 
 require_once "Void.php";
 
