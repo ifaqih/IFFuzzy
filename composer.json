@@ -1,0 +1,19 @@
+{
+  "name": "ifaqih/iffuzzy",
+  "description": "Fuzzy Logic library for PHP based on the Mamdani, Sugeno or Tsukamoto methods.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ifaqih",
+      "email": "awah.if@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "ifaqih\\IFFuzzy\\": "src/"
+    }
+  },
+  "require": {}
+}
