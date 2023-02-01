@@ -5,6 +5,14 @@ Fuzzy logic is a form of many-valued logic in which the truth value of variables
 PHP Version: 8.0 or above
 |-
 
+## Installation
+
+### With Composer:
+
+```ruby
+composer require ifaqih/iffuzzy
+```
+
 ## Constants:
 
 | Constant Name                   | Value         | Description                         |
