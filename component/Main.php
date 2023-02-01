@@ -1,9 +1,9 @@
 <?php
 
-namespace ifaqih\Component;
+namespace Ifaqih\Component;
 
-use ifaqih\Component\FZY\Attribute as FZY;
-use ifaqih\Component\SRC\Helpers as HLP;
+use Ifaqih\Component\FZY\Attribute as FZY;
+use Ifaqih\Component\SRC\Helpers as HLP;
 use Exception;
 
 class Main
@@ -161,7 +161,7 @@ class Main
         $diff = array_diff($a_k, $v_k);
         static::$result_attribute = array_values($diff)[0];
         static::$attributes = FZY::fuzzification(static::$attributes, static::$values);
-        $method = "ifaqih\Component\INF\\" . ucfirst(strtolower(static::$method));
+        $method = "Ifaqih\Component\INF\\" . ucfirst(strtolower(static::$method));
         $inference = (static::$method === FUZZY_METHOD_SUGENO) ? $method::inference(static::$rules, static::$attributes, static::$values) : $method::inference(static::$rules, static::$attributes, static::$result_attribute);
         static::$result = $inference['result'];
         static::$inference = $inference['inference'];

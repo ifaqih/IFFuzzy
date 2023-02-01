@@ -1,8 +1,8 @@
 <?php
 
-namespace ifaqih\Component\INF;
+namespace Ifaqih\Component\INF;
 
-use ifaqih\Component\DFZY\Mamdani as DFZYM;
+use Ifaqih\Component\DFZY\Mamdani as DFZYM;
 
 class Mamdani extends DFZYM
 {

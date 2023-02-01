@@ -1,6 +1,6 @@
 <?php
 
-namespace ifaqih\Component\DFZY;
+namespace Ifaqih\Component\DFZY;
 
 class Sugeno
 {

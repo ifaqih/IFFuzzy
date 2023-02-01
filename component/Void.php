@@ -20,13 +20,13 @@ define('FUZZY_EXEC_GET_ALL', 2);
 define('FUZZY_EXEC_AS_ARRAY', 3);
 
 
-require_once "Main.php";
-require_once "Fuzzification/Attribute.php";
-require_once "Source/Helpers.php";
-require_once "Source/Builder.php";
-include_once "Defuzzification/Tsukamoto.php";
-include_once "Defuzzification/Sugeno.php";
-include_once "Defuzzification/Mamdani.php";
-include_once "Inference/Tsukamoto.php";
-include_once "Inference/Sugeno.php";
-include_once "Inference/Mamdani.php";
+require_once __DIR__ . "/Main.php";
+require_once __DIR__ . "/Fuzzification/Attribute.php";
+require_once __DIR__ . "/Source/Helpers.php";
+require_once __DIR__ . "/Source/Builder.php";
+include_once __DIR__ . "/Defuzzification/Tsukamoto.php";
+include_once __DIR__ . "/Defuzzification/Sugeno.php";
+include_once __DIR__ . "/Defuzzification/Mamdani.php";
+include_once __DIR__ . "/Inference/Tsukamoto.php";
+include_once __DIR__ . "/Inference/Sugeno.php";
+include_once __DIR__ . "/Inference/Mamdani.php";

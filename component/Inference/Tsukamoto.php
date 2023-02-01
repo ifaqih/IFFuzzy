@@ -1,9 +1,9 @@
 <?php
 
-namespace ifaqih\Component\INF;
+namespace Ifaqih\Component\INF;
 
 use Exception;
-use ifaqih\Component\DFZY\Tsukamoto as DFZYT;
+use Ifaqih\Component\DFZY\Tsukamoto as DFZYT;
 
 class Tsukamoto extends DFZYT
 {

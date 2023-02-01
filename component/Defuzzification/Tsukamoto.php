@@ -1,8 +1,8 @@
 <?php
 
-namespace ifaqih\Component\DFZY;
+namespace Ifaqih\Component\DFZY;
 
-use ifaqih\Component\SRC\Helpers as HLP;
+use Ifaqih\Component\SRC\Helpers as HLP;
 use Exception;
 
 class Tsukamoto

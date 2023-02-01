@@ -1,11 +1,11 @@
 <?php
 
-namespace ifaqih\iffuzzy;
+namespace Ifaqih\Iffuzzy;
 
-require_once "Component/Void.php";
+require_once __DIR__ . "/../component/Void.php";
 
-use ifaqih\Component\Main;
-use ifaqih\Component\SRC\Builder;
+use Ifaqih\Component\Main;
+use Ifaqih\Component\SRC\Builder;
 
 class Fuzzy extends Main
 {

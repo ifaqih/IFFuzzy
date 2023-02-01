@@ -2,7 +2,7 @@
 
 include "src/IFFuzzy.php";
 
-use ifaqih\iffuzzy\Fuzzy;
+use Ifaqih\Iffuzzy\Fuzzy;
 
 function dump($x, $exit = false)
 {

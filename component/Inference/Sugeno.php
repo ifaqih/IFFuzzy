@@ -1,8 +1,8 @@
 <?php
 
-namespace ifaqih\Component\INF;
+namespace Ifaqih\Component\INF;
 
-use ifaqih\Component\DFZY\Sugeno as DFZYS;
+use Ifaqih\Component\DFZY\Sugeno as DFZYS;
 
 class Sugeno extends DFZYS
 {

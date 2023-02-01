@@ -1,8 +1,8 @@
 <?php
 
-namespace ifaqih\Component\FZY;
+namespace Ifaqih\Component\FZY;
 
-use ifaqih\Component\SRC\Helpers as HLP;
+use Ifaqih\Component\SRC\Helpers as HLP;
 use Exception;
 
 class Attribute
