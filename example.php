@@ -1,6 +1,6 @@
 <?php
 
-include "src/IFFuzzy.php";
+include "src/Fuzzy.php";
 
 use Ifaqih\Iffuzzy\Fuzzy;
 
