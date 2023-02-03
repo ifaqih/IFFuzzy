@@ -1,6 +1,6 @@
 <?php
 
-namespace Ifaqih\Iffuzzy;
+namespace Ifaqih\Aimethods;
 
 require_once __DIR__ . "/../component/Void.php";
 

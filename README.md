@@ -13,6 +13,20 @@ PHP Version: 8.0 or above
 composer require ifaqih/iffuzzy
 ```
 
+## Class
+
+### Namespace:
+
+```ruby
+namespace Ifaqih\Iffuzzy;
+```
+
+### Class Name:
+
+```ruby
+class Fuzzy{}
+```
+
 ## Constants:
 
 | Constant Name                   | Value         | Description                         |
