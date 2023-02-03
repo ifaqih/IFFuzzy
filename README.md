@@ -13,18 +13,10 @@ PHP Version: 8.0 or above
 composer require ifaqih/iffuzzy
 ```
 
-## Class
-
-### Namespace:
+## Use The Library
 
 ```ruby
-namespace IFaqih\AIMethods;
-```
-
-### Class Name:
-
-```ruby
-class Fuzzy{}
+use IFaqih\AIMethods\Fuzzy;
 ```
 
 ## Constants:
