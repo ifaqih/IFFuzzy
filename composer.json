@@ -9,7 +9,7 @@
       "email": "awah.if@gmail.com"
     }
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "IFaqih\\AIMethods\\": "src/"
@@ -18,5 +18,5 @@
   "require": {
     "php": "^8.0"
   },
-  "version": "1.0"
+  "prefer-stable": true
 }
