@@ -2,7 +2,7 @@
 
 include "src/Fuzzy.php";
 
-use Ifaqih\Iffuzzy\Fuzzy;
+use IFaqih\AIMethods\Fuzzy;
 
 function dump($x, $exit = false)
 {

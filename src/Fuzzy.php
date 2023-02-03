@@ -1,6 +1,6 @@
 <?php
 
-namespace Ifaqih\Aimethods;
+namespace IFaqih\AIMethods;
 
 require_once __DIR__ . "/../component/Void.php";
 

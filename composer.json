@@ -12,7 +12,7 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "Ifaqih\\Aimethods\\": "src/"
+      "IFaqih\\AIMethods\\": "src/"
     }
   },
   "require": {

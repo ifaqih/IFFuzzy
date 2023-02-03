@@ -18,7 +18,7 @@ composer require ifaqih/iffuzzy
 ### Namespace:
 
 ```ruby
-namespace Ifaqih\Iffuzzy;
+namespace IFaqih\AIMethods;
 ```
 
 ### Class Name:
