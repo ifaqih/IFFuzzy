@@ -1,6 +1,6 @@
 <?php
 
-include "src/Fuzzy.php";
+include __DIR__ . "/../src/Fuzzy.php";
 
 use IFaqih\AIMethods\Fuzzy;
 
